@@ -1,0 +1,10 @@
+.navbar-expand-lg .navbar-nav .nav-link
+{
+    color: #055999;
+    text-transform: uppercase;
+}
+.navbar-nav .nav-link.active
+{
+    background:#055999;
+    color: white;
+}
